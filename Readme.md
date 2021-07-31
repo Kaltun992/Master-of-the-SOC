@@ -62,7 +62,7 @@ Refernce: run: curl <https://datadome.co/resources/how-to-prevent-account-takeov
 
 Block all incoming HTTP traffic where the source IP = 79.171.127.34 & IP= 194.105.145.147 comes from the country of Ukraine
 
-![Geographic Map](./Images/Geo-Snap)
+![Geographic Map](./Images/Geo-Snap.png)
 
 **Question 2**
 VSI has insider information that JobeCorp will launch the same webserver attack but use a different IP each time in order to avoid being stopped by the rule you just created.
